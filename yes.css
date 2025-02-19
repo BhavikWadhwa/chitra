@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(176,101,0);
+    background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxrc2RjMTJvMG05cXNpYmVrYnhhdThiaHRobHh6emI0MGVlMXdtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cKbLJzS0cOTklEmzto/giphy.webp");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 40rem;
+    height: 40rem;
+    background-position: 150px 60px;
+    
+    
+}
+
+.header_text {
+    font-family: 'Nunito';
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
